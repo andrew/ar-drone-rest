@@ -1,0 +1,10 @@
+{
+  "name": "ar-drone-rest",
+  "version": "0.0.1",
+  "start": "coffee ar-drone-rest.coffee",
+  "dependencies": {
+    "express": ">=0",
+    "coffee-script": ">=0",
+    "ar-drone":  ">=0"
+  }
+}
