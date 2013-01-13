@@ -39,4 +39,4 @@ A simple rest server to control your Parrot AR Drone
 
 ## Copyright
 
-Copyright (c) 2012 Andrew Nesbitt. See [LICENSE](https://github.com/andrew/ar-drone-rest/blob/master/LICENSE) for details.
+Copyright (c) 2013 Andrew Nesbitt. See [LICENSE](https://github.com/andrew/ar-drone-rest/blob/master/LICENSE) for details.
